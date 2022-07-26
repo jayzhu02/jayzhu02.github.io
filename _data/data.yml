@@ -125,7 +125,7 @@ projects:
 
       - title: Fake News Information Analysis and Visualization Platform
         time: Jun 2018 - Jan 2019
-        link: "#"
+        link:
         details: |
           - Checked and cleansed data, calculated similarities and extracted keywords for 10k+ copies of texts using ELMO model.
           - Detected duplicates between new data and the database, with an accuracy rate of 92% in the screening test.
