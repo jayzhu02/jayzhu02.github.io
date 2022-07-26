@@ -1,0 +1,154 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jie Zhu
+    tagline: GWU MSCS Student
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jiezhu[at]gwu[dot]edu
+    phone: 202-758-8919
+    timezone:
+    citizenship:
+    website:  #do not add http://
+    linkedin:
+    xing:
+    github: jayzhu02
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: # '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: ./assets/Jie Zhu.pdf
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Chinese
+        level: Native
+
+      - idiom: Cantonese
+        level: Native
+
+    interests:
+      - item: Saxophone
+        link:
+
+      - item: Flute
+
+      - item: Cooking
+
+#career-profile:
+#    title: Career Profile
+#    summary:
+
+education:
+    - degree: MSc in Computer Science
+      university: George Washington University
+      time: Sep 2021 - Present
+      details: |
+          - GPA: 4.0/4.0 (Present)
+          - The best animation winner of The Festival of Animation 2021
+    - degree: BSc in Information Security
+      university: Northeastern University, Shenyang, China
+      time: Aug 2016 - Jun 2020
+      details: |
+          - GPA: 3.1/5.0 (Top 30%)
+          - Third-tier Merit Scholarship Recipient
+
+
+research-experiences:
+    - title: Fairness HRI in restaurant environment
+      time: Mar 2022 - Present
+      school: Cognitive Robotics and AI Lab (CRAI), Kent State University
+      advisor: Rui Liu
+      details: |
+        - Proposed 4 fairness issues to evaluate robot bias during interaction with people in the restaurant environment.
+        - Design two models for robot bias detection and bias mitigation. Define the reward function according to the fairness
+          issues.
+        - Building an environment and robot simulation using the MuJoCo platform.
+
+    - title: Video question answering (VQA)
+      time: Feb 2022 - Present
+      school: ACTION Lab, Rochester Institute of Technology
+      advisor: Yu Kong
+      details: |
+        - Proposed a method of Category and Signal encoding to improve Temporal question answering.
+        - Proposed an optimized model structure of HQGA to concatenate question representation and hierarchical video features
+          with a 1% improvement.
+
+
+
+experiences:
+    - role: Assistant AI Engineer
+      time: Sep 2020 - Sep 2021
+      company: Research of Institute of Tsinghua, Pearl River Delta, Guangzhou, China
+      details: |
+        - Collect and classify voice dataset. Design the MySQL database of 600k+ voice data.
+        - Develop Voice Conversion project and optimize the training process of AUTOVC model. Apply a patent of *"A method of
+          Text To Speech based on Deep Learning"* during this work.
+        - Participate in TTS-relative work, including preprocessing dataset, training and deploying model, etc. Propose a method
+          of using phoneme as the training dataset. Optimizing preprocessing with multi-processing to reduce the time from 20
+          hours to an hour.
+        - Programming voice evaluation module which could score different TTS model about voice quality and pronunciation.
+        - Apply about 15 relative patents and two of them are the main applicant.
+
+    - role: R&D intern
+      time: Dec 2019 - Apr 2020
+      company: Seeking AI Co. Ltd., Guangzhou, China
+      details: |
+        - Design the size detection algorithm of Project *Patinda* to detect the defect products.
+        - Participate in code maintenance and learn the process of code development.
+
+
+
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: Intellectual Property Management System Base on Blockchain
+        time: Mar 2020 - Jun 2020
+        details: |
+          - Design the system structure by analyzing the demand of the market.
+          - Use Flask to build the website, which includes IP register, IP trade and electrical evidence generation functions.
+
+
+      - title: Fake News Information Analysis and Visualization Platform
+        time: Jun 2018 - Jan 2019
+        link: "#"
+        details: |
+          - Checked and cleansed data, calculated similarities and extracted keywords for 10k+ copies of texts using ELMO model.
+          - Detected duplicates between new data and the database, with an accuracy rate of 92% in the screening test.
+
+
+#publications:
+#    title: Publications
+#    intro: |
+#
+#    papers:
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & PyTorch
+#        level: 98%
+      - name: C++
+
+
+footer: >
+    Modified by Jie Zhu.<br>Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
