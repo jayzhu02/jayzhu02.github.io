@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+{% if site.analytics %}
+{% include analytics.html %}
+{% endif %}
+
 {% include career-profile.html %}
 
 {% unless site.data.data.sidebar.education %}
