@@ -57,12 +57,13 @@ education:
       time: Sep 2021 - Present
       details: |
           - GPA: 4.0/4.0 (Present)
-          - The best animation winner of The Festival of Animation 2021
+          - Graduate Tuition Fellowship Recipient
+          - Faculty Award of Computer Animation
     - degree: BSc in Information Security
       university: Northeastern University, Shenyang, China
       time: Aug 2016 - Jun 2020
       details: |
-          - GPA: 3.1/5.0 (Top 30%)
+          - GPA: Top 30% Ranking
           - Third-tier Merit Scholarship Recipient
 
 
@@ -75,7 +76,8 @@ research-experiences:
         - Proposed 4 fairness issues to evaluate robot bias during interaction with people in the restaurant environment.
         - Design two models for robot bias detection and bias mitigation. Define the reward function according to the fairness
           issues.
-        - Building an environment and robot simulation using the MuJoCo platform.
+        - Building an interactive environment and robot simulation using the MuJoCo platform.
+        - Design a questionnaire to collect data for the user study.
 
     - title: Video question answering (VQA)
       time: Feb 2022 - Present
@@ -83,8 +85,8 @@ research-experiences:
       advisor: Yu Kong
       details: |
         - Proposed a method of Category and Signal encoding to improve Temporal question answering.
-        - Proposed an optimized model structure of HQGA to concatenate question representation and hierarchical video features
-          with a 1% improvement.
+        - Proposed an optimized model structure of HQGA to concatenate question representation and hierarchical video features.
+        - Set up new features representation of video and language using multimodal CLIP.
 
 
 
@@ -145,7 +147,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & PyTorch
+      - name: Python & PyTorch & OpenGL
 #        level: 98%
       - name: C++
 
