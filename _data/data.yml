@@ -77,7 +77,8 @@ research-experiences:
         - Design two models for robot bias detection and bias mitigation. Define the reward function according to the fairness
           issues.
         - Building an interactive environment and robot simulation using the MuJoCo platform.
-        - Design a questionnaire to collect data for the user study.
+        - Design a questionnaire by collecting the trained robot data in our environment.
+        - Writing Paper now
 
     - title: Video question answering (VQA)
       time: Feb 2022 - Present
