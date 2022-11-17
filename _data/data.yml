@@ -77,8 +77,9 @@ research-experiences:
         - Design two models for robot bias detection and bias mitigation. Define the reward function according to the fairness
           issues.
         - Building an interactive environment and robot simulation using the MuJoCo platform.
-        - Design a questionnaire by collecting the trained robot data in our environment.
-        - Writing Paper now
+        - a questionnaire was designed to survey people’s attitudes toward the robot’s behavior, and 1,000 preferences
+          data were simulated for the robot’s bias detection model.
+        - Proposed a method of "Bias detection guidance" to mitigate robot bias during learning.
 
     - title: Video question answering (VQA)
       time: Feb 2022 - Present
@@ -86,8 +87,12 @@ research-experiences:
       advisor: Yu Kong
       details: |
         - Proposed a method of Category and Signal encoding to improve Temporal question answering.
-        - Proposed an optimized model structure of HQGA to concatenate question representation and hierarchical video features.
-        - Set up new features representation of video and language using multimodal CLIP.
+        -  Introduced Action Temporality Modeling (ATM) for causal/temporal reasoning.
+        -  Enhancing the video representation by incorporating the motion stream that is appearance free to capture
+           the precise motion.
+        -  Training the visual-text encoding by contrastive learning in an action-centric manner, leading to better
+           action representations in both vision and text modalities.
+        -  Now in submission to CVPR2023.
 
 
 
