@@ -66,9 +66,19 @@ education:
           - GPA: Top 30% Ranking
           - Third-tier Merit Scholarship Recipient
 
+publications:
+    title:
+    intro: |
+
+    papers:
+      - title: ATM:Action Temporality Modeling for Video Question Answering
+        link: "#"
+        authors: Junwen Chen, Jie Zhu, Yu Kong
+        conference: CVPR'23 submitted
+
 
 research-experiences:
-    - title: Fairness HRI in restaurant environment
+    - title: Fairness in robot learning
       time: Mar 2022 - Present
       school: Cognitive Robotics and AI Lab (CRAI), Kent State University
       advisor: Rui Liu
@@ -92,7 +102,6 @@ research-experiences:
            the precise motion.
         -  Training the visual-text encoding by contrastive learning in an action-centric manner, leading to better
            action representations in both vision and text modalities.
-        -  Now in submission to CVPR2023.
 
 
 
@@ -138,16 +147,6 @@ projects:
           - Checked and cleansed data, calculated similarities and extracted keywords for 10k+ copies of texts using ELMO model.
           - Detected duplicates between new data and the database, with an accuracy rate of 92% in the screening test.
 
-
-#publications:
-#    title: Publications
-#    intro: |
-#
-#    papers:
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
