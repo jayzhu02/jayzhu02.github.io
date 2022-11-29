@@ -1,5 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
+#use 'bundle exec jekyll serve' to compile and preview the site locally.
 #
 
 sidebar:
@@ -67,7 +68,7 @@ education:
           - Third-tier Merit Scholarship Recipient
 
 publications:
-    title:
+    title: Publications
     intro: |
 
     papers:
@@ -92,7 +93,7 @@ research-experiences:
         - Proposed a method of "Bias detection guidance" to mitigate robot bias during learning.
 
     - title: Video question answering (VQA)
-      time: Feb 2022 - Present
+      time: Feb 2022 - Nov 2022
       school: ACTION Lab, Rochester Institute of Technology
       advisor: Yu Kong
       details: |
