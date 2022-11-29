@@ -94,7 +94,7 @@ research-experiences:
 
     - title: Video question answering (VQA)
       time: Feb 2022 - Nov 2022
-      school: ACTION Lab, Rochester Institute of Technology
+      school: ACTION Lab, Michigan State University
       advisor: Yu Kong
       details: |
         - Proposed a method of Category and Signal encoding to improve Temporal question answering.
