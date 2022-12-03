@@ -68,14 +68,20 @@ education:
           - Third-tier Merit Scholarship Recipient
 
 publications:
-    title: Publications
+    title: Publication
     intro: |
 
     papers:
-      - title: ATM:Action Temporality Modeling for Video Question Answering
+      - title: <b>Jie Zhu</b>, Mengsha Hu, Xueyao Liang, Rui Liu. Fairness-Sensitive Policy-Gradient Reinforcement Learning for Bias-Mitigated Robotic Assistance <font color="#97AAC3">(IEEE Robotics and Automation Letters (RA-L) Submitted)</font>
         link: "#"
-        authors: Junwen Chen, Jie Zhu, Yu Kong
-        conference: CVPR'23 submitted
+        authors:
+        conference:
+
+      - title: Junwen Chen, <b>Jie Zhu</b>, Yu Kong. ATM:Action Temporality Modeling for Video Question Answering <font color="#97AAC3">(CVPR'23 submitted)</font>
+        link: "#"
+        authors:
+        conference:
+
 
 
 research-experiences:
@@ -153,9 +159,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & PyTorch & OpenGL
+      - name: 4-year Python programming experience
+      - name: Familiar with PyTorch framework and OpenGL framework
 #        level: 98%
-      - name: C++
+      - name: Familiar with C++
 
 
 footer: >
