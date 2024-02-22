@@ -73,7 +73,7 @@ publications:
 
     papers:
       - title: <b>Jie Zhu</b>, Mengsha Hu, Xueyao Liang, Rui Liu. Fairness-Sensitive Policy-Gradient Reinforcement Learning for Bias-Mitigated Robotic Assistance <font color="#97AAC3">(IEEE Robotics and Automation Letters (RA-L) Submitted)</font>
-        link: "#"
+        link: "https://arxiv.org/abs/2306.04167"
         authors:
         conference:
 
